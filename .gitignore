@@ -45,3 +45,8 @@ exe_release.txt
 test_release.txt
 test_debug.txt
 travis_qmake_gcc_cpp11_boost_test
+*.tar.gz
+oclint-0.10.3/
+*.log
+travis_qmake_gcc_cpp11_boost_test_oclint
+travis_qmake_gcc_cpp11_boost_test_oclint_test
